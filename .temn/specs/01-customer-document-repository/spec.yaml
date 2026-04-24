@@ -1,0 +1,38 @@
+feature_name: "Customer Document Repository"
+feature_id: "01"
+version: "1.0.0"
+created_date: "2026-04-24"
+owner: "Product Manager"
+status: "specification_in_progress"
+functional_status: "complete"
+technical_status: "not_started"
+quality_score: 8.5
+mode: "functional"
+
+feature_summary: |
+  A centralized vault for customers to view, search, filter, and download their banking documents
+  (statements, letters, notices, tax documents) with read/unread tracking and new document notifications.
+
+scope:
+  phase_1:
+    - Document list view with filtering and search
+    - Individual document download
+    - Read/unread status tracking
+    - New document notifications
+  phase_2_future:
+    - Bulk download
+    - Document sharing
+    - Printing
+    - Annotations
+    - Customer upload
+    - Retention management
+
+target_users:
+  - Retail customers
+  - Business customers
+  - SME customers
+
+success_metrics:
+  - App satisfaction score (NPS or similar)
+  - Feature utilization rate
+  - Digital statement uptake

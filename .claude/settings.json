@@ -1,0 +1,7 @@
+{
+  "enabledPlugins": {
+    "temenos-product-management@empowermate": true,
+    "temenos-tooling@empowermate": true,
+    "temenos-development@empowermate": true
+  }
+}

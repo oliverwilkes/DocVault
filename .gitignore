@@ -1,0 +1,41 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Node/NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+/dist/
+/build/
+*.class
+*.jar
+*.o
+
+# Environment and secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+.cache/
+
+# Maven
+target/
+.m2/
+
+# IDE settings (local)
+.claude/settings.local.json
